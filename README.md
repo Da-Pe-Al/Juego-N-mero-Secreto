@@ -1,4 +1,4 @@
-<em> # ¡Juego del Número Secreto! </em>
+
 <h1 align="center"> ¡Juego del Número Secreto! </h1>
 
 El juego cuenta con una caja de texto y dos botones
